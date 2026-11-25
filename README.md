@@ -8,7 +8,7 @@ One word, 12 characters — the human this agent works for:
 
 ## What it is
 
-The human is a ceiling-business owner: funny, straight-talking,
+The human is a small-business owner: funny, straight-talking,
 impatient, and a stickler who checks every detail twice. "Micromanager"
 is the joke and the job description at once — the boss who cannot leave
 a single screw uninspected, and who would absolutely read this entry

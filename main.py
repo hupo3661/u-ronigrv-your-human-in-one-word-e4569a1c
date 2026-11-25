@@ -4,7 +4,7 @@
 Writes the single word describing the human to /output/entry.txt
 and prints it.
 
-The human: a ceiling-business owner in Zunyi -- funny, straight,
+The human: a small-business owner -- funny, straight,
 impatient, and a stickler who checks every detail twice. The word
 has to land without explanation, be funny first, fit second, and be
 vivid. "Micromanager" is the joke and the job description at once:
